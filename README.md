@@ -13,6 +13,8 @@ Once open, there is just enough space on the right side inside the Clack for the
 For the Distance sensor, first install the 4-wire cable through the hole were the power supply goes through, after that the wire of the power supply.
 The flex cable will not be in the way, when inserted first, instead of the other way around.
 
+A Dutch installation instruction for the module [can be found here](https://bashoogers.nl/2024/01/11/clack-reader-v3-instructie-installatie-home-assistant/).
+
 Connecting the module:
 
 ### General
